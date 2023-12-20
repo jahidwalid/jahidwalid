@@ -6,7 +6,7 @@ I'm Jahid Walid called me Jahid, Web Design & Development is my passion, I give 
 Skills: JS / REACT / HTML / CSS/BOOTSTRAP//SASSWORDPRESS/Wordpress & Wix
 
 - 🔭 I’m currently working on Freelance Market Place 
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently learning Wp theme Development
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about About webdevelopment 
 
